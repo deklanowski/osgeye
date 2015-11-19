@@ -1,0 +1,1 @@
+Reloads all state stored by the console from the server.

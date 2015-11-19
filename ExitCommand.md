@@ -1,0 +1,1 @@
+Exits from the console.

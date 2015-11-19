@@ -1,0 +1,1 @@
+Prints help for all commands.
